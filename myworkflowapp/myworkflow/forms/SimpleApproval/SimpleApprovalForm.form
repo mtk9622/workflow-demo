@@ -1,0 +1,27 @@
+{
+    "id": "simpleapprovalform",
+    "schemaVersion": "1.1.0",
+    "name": "SimpleApprovalForm",
+    "revision": "1.0",
+    "type": "task",
+    "readOnly": false,
+    "content": [
+        {
+            "id": "product",
+            "type": "string",
+            "label": "Product",
+            "readOnly": false,
+            "value": "${context.product}",
+            "constraints": {
+                "required": false
+            }
+        }
+    ],
+    "decisions": [
+        {
+            "id": "approve",
+            "text": "Approve",
+            "decisionType": ""
+        }
+    ]
+}
