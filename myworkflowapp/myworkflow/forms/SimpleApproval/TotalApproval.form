@@ -1,0 +1,27 @@
+{
+    "id": "totalapproval",
+    "schemaVersion": "1.1.0",
+    "name": "TotalApproval",
+    "revision": "1.0",
+    "type": "task",
+    "readOnly": false,
+    "content": [
+        {
+            "id": "total",
+            "type": "float",
+            "label": "Total",
+            "readOnly": true,
+            "value": "${context.total}",
+            "constraints": {
+                "required": false
+            }
+        }
+    ],
+    "decisions": [
+        {
+            "id": "approve",
+            "text": "Approve Purchase",
+            "decisionType": ""
+        }
+    ]
+}

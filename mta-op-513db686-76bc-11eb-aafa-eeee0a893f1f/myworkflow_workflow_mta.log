@@ -1,0 +1,24 @@
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of file Id 54d50d40-76bc-11eb-b757-31189f62c270 started#
+
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of SimpleApprovalForm.form started#
+
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of SimpleApprovalForm.form was completed successfully, Deployment details : {"deployResourceId":"54fd55c2-76bc-11eb-b757-5363bf8da757","contentId":"54fd55c1-76bc-11eb-b757-8bcc2dfe5c11","deployedArtifactId":"simpleapprovalform","deployedArtifactName":"SimpleApprovalForm","deployedArtifactVersion":"4"}#
+
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of SimpleApproval.workflow started#
+
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of SimpleApproval.workflow was completed successfully, Deployment details : {"deployResourceId":"54fd55c2-76bc-11eb-b757-5363bf8da757","contentId":"54fd55c1-76bc-11eb-b757-8bcc2dfe5c11","deployedArtifactId":"simpleapproval","deployedArtifactName":"SimpleApproval","deployedArtifactVersion":"3"}#
+
+#2.0#2021 02 24 16:21:34.743#Z#DEBUG#com.sap.cloud.lm.sl.xs2.513db686-76bc-11eb-aafa-eeee0a893f1f.myworkflow_workflow_mta.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-9689###
+[PollDeployContentStatusExecution] [myworkflow] [INFO] Deployment of file Id 54d50d40-76bc-11eb-b757-31189f62c270  completed successfuly#
+
